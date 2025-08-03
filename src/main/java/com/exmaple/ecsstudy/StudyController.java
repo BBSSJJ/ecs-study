@@ -11,6 +11,6 @@ public class StudyController {
 
     @GetMapping("/")
     public String getName(){
-        return "배성준";
+        return "배성준 CI/CD 성공";
     }
 }
