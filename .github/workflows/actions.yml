@@ -1,4 +1,4 @@
-name: CI/CD to ECS (Docker Hub 기반)
+name: CI/CD to ECS
 
 on:
   push:
